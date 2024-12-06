@@ -1,6 +1,5 @@
 ### IT Specification for **OpenEduConnect**
 
----
 
 #### **1. Project Overview and Objectives**
 **Project Name**: OpenEduConnect  
@@ -10,7 +9,6 @@
 - Provide seamless API integrations with popular tools like Google Classroom, Zoom, and Kahoot.
 - Ensure accessibility, scalability, and compliance with international standards.
 
----
 
 #### **2. Functional Requirements**
 
@@ -33,7 +31,6 @@
 - Accessible and intuitive design.
 - Responsive layout for mobile and desktop.
 
----
 
 #### **3. Non-Functional Requirements**
 
@@ -42,7 +39,6 @@
 - **Security**: Ensure data encryption, GDPR, and FERPA compliance.
 - **Reliability**: 99.95% uptime guaranteed through load balancing and fault tolerance.
 
----
 
 #### **4. System Architecture**
 
@@ -58,7 +54,6 @@
 
 *(Diagram not shown but will be included in the course.)*
 
----
 
 #### **5. Normative References**
 
@@ -68,7 +63,6 @@
 - **Best Practices**:
   - API design following OpenAPI Specification.
 
----
 
 #### **6. Stakeholder Input**
 
@@ -80,7 +74,6 @@
 - Accessibility features such as screen readers and keyboard navigation are critical.
 - Integration with existing school systems is a top priority.
 
----
 
 #### **7. Version Control**
 
@@ -92,7 +85,6 @@
   - Pull requests reviewed by team leads.
   - Continuous Integration for automated testing.
 
----
 
 #### **8. Verification and Validation**
 
@@ -107,7 +99,6 @@
 **Mock Scenario**:
 - Verify integration of a Google Classroom API for assignment submissions.
 
----
 
 #### **9. Maintenance and Documentation**
 
@@ -122,14 +113,12 @@
 - **API Docs**: REST API reference with examples.
 - **User Manuals**: Step-by-step guides for each user role.
 
----
 
 #### **10. Open Source Licensing**
 
 **Selected License**: MIT License  
 **Rationale**: Balances openness with protection for contributors, enabling widespread adoption without restrictive terms.
 
----
 
 #### **11. Lab Exercises**
 
@@ -156,5 +145,3 @@ Lab: Write an API documentation entry for the Zoom integration feature.
 
 **Chapter 8: Course Recap and Next Steps**  
 Lab: Conduct a peer review of a draft specification and identify areas for improvement.
-
----
