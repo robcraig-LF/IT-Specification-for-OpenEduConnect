@@ -1,8 +1,6 @@
 Adapting labs effectively for the **OpenEduConnect** project within the course requires alignment with learning objectives, flexibility for different learner levels, and clear application of the example IT specification. 
 This roadmap is an attempt to ensure the labs are impactful:
 
----
-
 ### **1. Customize Labs to Course Objectives**
 Align each lab with specific learning outcomes. For example:
 - **Planning Lab**: Focus on gathering requirements and creating structured outlines.
@@ -11,8 +9,6 @@ Align each lab with specific learning outcomes. For example:
 
 Each lab should reinforce a practical skill tied to the project, ensuring learners see the value of the activities.
 
----
-
 ### **2. Scale Complexity for Different Learners**
 Not all participants will have the same technical or domain expertise. Design labs with varying levels of complexity:
 - **Basic Tasks**: Define straightforward requirements for a single feature, such as user authentication.
@@ -20,14 +16,10 @@ Not all participants will have the same technical or domain expertise. Design la
 
 Provide clear instructions for beginners while offering optional challenges for advanced learners.
 
----
-
 ### **3. Use OpenEduConnect as a Central Context**
 - **Consistency Across Labs**: Maintain the same mock IT specification throughout the labs to give learners a unified context and reduce cognitive load.
 - **Real-World Scenarios**: Tie labs to realistic challenges OpenEduConnect might face, such as adapting for different student demographics or ensuring GDPR compliance.
 - **Dynamic Updates**: Adjust the IT specification with evolving "requirements" between labs, mimicking real-world changes in project scope.
-
----
 
 ### **4. Incorporate Practical Tools**
 Leverage tools commonly used in IT specification and development processes:
@@ -37,27 +29,19 @@ Leverage tools commonly used in IT specification and development processes:
 
 Ensure these tools are accessible to participants with minimal setup.
 
----
-
 ### **5. Encourage Collaboration**
 Design labs that encourage teamwork, simulating a real-world development environment:
 - **Group Activities**: Assign roles like project manager, specification writer, and tester to different participants.
 - **Peer Reviews**: Include sessions where participants review and provide feedback on each other's work, fostering communication skills and attention to detail.
-
----
 
 ### **6. Include Reflection and Iteration**
 Every lab should end with a reflection activity:
 - Ask learners to evaluate their processes, identify mistakes, and propose improvements.
 - Provide opportunities to iterate on their work in subsequent labs, reinforcing the idea of continuous improvement.
 
----
-
 ### **7. Provide Adaptive Feedback**
 - **Automated Feedback**: Use rubrics and simple automated tools for immediate feedback on structured tasks (e.g., checking if functional requirements meet given criteria).
 - **Instructor-Led Feedback**: For open-ended tasks, instructors can guide participants through their thought processes, offering corrections and alternative approaches.
-
----
 
 ### **8. Simulate Real-World Challenges**
 Introduce unexpected changes or constraints during labs:
@@ -65,13 +49,9 @@ Introduce unexpected changes or constraints during labs:
 - **Resource Constraints**: Limit the scope of what they can achieve, forcing prioritization of key features.
 - **Error Scenarios**: Create intentional errors in provided materials (e.g., conflicting requirements) to encourage debugging and critical thinking.
 
----
-
 ### **9. Bridge Theory with Practice**
 - Begin each lab with a short theoretical explanation to ensure participants understand its purpose.
 - End with a clear mapping of lab outcomes to industry applications, showing how these tasks are relevant to real-world IT projects.
-
----
 
 ### **Example Adaptations for Specific Labs**
 1. **Lab: Planning Requirements**
