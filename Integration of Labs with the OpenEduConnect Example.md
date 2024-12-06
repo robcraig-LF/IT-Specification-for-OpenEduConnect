@@ -2,8 +2,6 @@ Labs will use the **OpenEduConnect** IT specification example as a consistent, p
 This approach ensures participants not only grasp the theoretical aspects of IT specifications but also gain practical, actionable skills to apply in real-world projects.
 This is an example of how it can be effectively integrated into the labs:
 
----
-
 ### **Integration of Labs with the OpenEduConnect Example**
 
 #### **Chapter 1: Introduction to IT Specifications**
@@ -13,8 +11,6 @@ This is an example of how it can be effectively integrated into the labs:
 - Discuss the importance of addressing functional and non-functional requirements using OpenEduConnect as a case study.  
 **Purpose**: Establish a baseline understanding of why well-defined specifications are critical.
 
----
-
 #### **Chapter 2: Planning and Research**
 **Lab Goal**: Introduce research and planning techniques for specifications.  
 **Lab Activity**:  
@@ -23,16 +19,12 @@ This is an example of how it can be effectively integrated into the labs:
 - Benchmark OpenEduConnect's proposed API integrations against comparable industry standards (e.g., Google Classroom or Zoom).  
 **Purpose**: Show how research informs the initial stages of specification development.
 
----
-
 #### **Chapter 3: Writing Functional Requirements**
 **Lab Goal**: Help participants write precise functional requirements.  
 **Lab Activity**:  
 - Draft a new functional requirement for OpenEduConnect's dashboard feature, ensuring clarity and specificity.
 - Critique one of the existing functional requirements in the example, identifying strengths and weaknesses.  
 **Purpose**: Teach the nuances of writing functional requirements through practical application.
-
----
 
 #### **Chapter 4: Defining Non-Functional Requirements**
 **Lab Goal**: Familiarize participants with defining and incorporating non-functional requirements.  
@@ -41,16 +33,12 @@ This is an example of how it can be effectively integrated into the labs:
 - Discuss how GDPR and FERPA compliance would impact these requirements.  
 **Purpose**: Highlight the importance of non-functional requirements in supporting system performance and compliance.
 
----
-
 #### **Chapter 5: Drafting the Specification Document**
 **Lab Goal**: Enable participants to structure and draft a comprehensive specification document.  
 **Lab Activity**:  
 - Use the provided sections of OpenEduConnect's IT specification as a guide to create a structured outline for a new feature (e.g., progress tracking).  
 - Add missing elements or enhance an existing section, such as the "System Architecture."  
 **Purpose**: Reinforce the value of clear organization and detail in specifications.
-
----
 
 #### **Chapter 6: Verification and Validation**
 **Lab Goal**: Introduce methods for testing and validating specifications.  
@@ -59,8 +47,6 @@ This is an example of how it can be effectively integrated into the labs:
 - Use a mock conformance test suite to validate the functional requirements for one of OpenEduConnect's API integrations.  
 **Purpose**: Bridge the gap between specification writing and real-world implementation testing.
 
----
-
 #### **Chapter 7: Documentation and Maintenance**
 **Lab Goal**: Train participants to create user-friendly documentation and plan for long-term maintenance.  
 **Lab Activity**:  
@@ -68,16 +54,12 @@ This is an example of how it can be effectively integrated into the labs:
 - Develop a version control strategy for maintaining updates to the specification document.  
 **Purpose**: Show the critical role of documentation in ensuring project longevity and usability.
 
----
-
 #### **Chapter 8: Course Recap and Next Steps**
 **Lab Goal**: Conduct a peer review and consolidate learning.  
 **Lab Activity**:  
 - Collaboratively review one section of OpenEduConnect's specification as a group, identifying areas for improvement.
 - Create a roadmap for implementing feedback and advancing the specification.  
 **Purpose**: Solidify the practical skills and knowledge gained during the course.
-
----
 
 ### **Benefits of Using OpenEduConnect in Labs**
 1. **Consistency Across Modules**: The example ties together all aspects of the course, creating a cohesive learning experience.  
