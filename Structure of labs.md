@@ -1,8 +1,6 @@
 Detailed demonstration of how labs for each chapter of the course will be structured using the OpenEduConnect IT specification example. 
 Each lab includes objectives, tasks, resources, and expected outcomes to give participants a hands-on experience aligned with the course content.
 
----
-
 ### **Chapter 1: Introduction to IT Specifications**
 **Lab Title**: Understanding the Purpose of IT Specifications  
 **Objective**: Familiarize participants with the foundational purpose and importance of IT specifications in a project lifecycle.  
@@ -12,8 +10,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 3. Write a short paragraph summarizing the key benefits of using an IT specification for OpenEduConnect.  
 **Resources**: OpenEduConnect project overview document.  
 **Expected Outcomes**: Participants will understand the role of IT specifications and articulate their importance in ensuring project success.
-
----
 
 ### **Chapter 2: Planning and Research**
 **Lab Title**: Stakeholder Analysis and Benchmarking  
@@ -26,8 +22,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 **Resources**: Internet access for research, stakeholder analysis template.  
 **Expected Outcomes**: Participants will produce a stakeholder analysis and benchmark against industry standards.
 
----
-
 ### **Chapter 3: Writing Functional Requirements**
 **Lab Title**: Drafting Functional Requirements  
 **Objective**: Develop and refine functional requirements.  
@@ -36,8 +30,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 2. Use the existing functional requirements to critique their clarity and suggest improvements.  
 **Resources**: Functional requirements section from the example.  
 **Expected Outcomes**: Participants will create clear, specific, and measurable functional requirements.
-
----
 
 ### **Chapter 4: Defining Non-Functional Requirements**
 **Lab Title**: Specifying Non-Functional Requirements  
@@ -48,8 +40,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 **Resources**: Non-functional requirements section, compliance guidelines.  
 **Expected Outcomes**: Participants will create non-functional requirements addressing legal and technical challenges.
 
----
-
 ### **Chapter 5: Drafting the Specification Document**
 **Lab Title**: Structuring a Specification Document  
 **Objective**: Organize a comprehensive specification document.  
@@ -58,8 +48,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 2. Fill out at least one section of the outline in detail.  
 **Resources**: Template for specification document structure.  
 **Expected Outcomes**: Participants will understand how to structure and populate an IT specification.
-
----
 
 ### **Chapter 6: Verification and Validation**
 **Lab Title**: Testing and Validation  
@@ -70,8 +58,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 **Resources**: Test case templates, mock test suite.  
 **Expected Outcomes**: Participants will demonstrate how to verify and validate specifications through structured testing.
 
----
-
 ### **Chapter 7: Documentation and Maintenance**
 **Lab Title**: Creating User Documentation  
 **Objective**: Develop user-friendly documentation and establish a version control strategy.  
@@ -80,8 +66,6 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 2. Create a simple version control strategy, including naming conventions for specification updates.  
 **Resources**: User guide template, version control guide.  
 **Expected Outcomes**: Participants will produce clear documentation and plan for long-term maintenance.
-
----
 
 ### **Chapter 8: Course Recap and Next Steps**
 **Lab Title**: Specification Review and Roadmap Creation  
@@ -92,12 +76,8 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 **Resources**: OpenEduConnect specification, feedback form template.  
 **Expected Outcomes**: Participants will refine their skills in reviewing and iterating on IT specifications.
 
----
-
 ### **Why These Labs Work**
 1. **Practical Application**: Each lab builds on a real-world example, helping participants relate theory to practice.  
 2. **Skill Development**: Labs progressively develop key skills, from planning to validation and maintenance.  
 3. **Collaborative Learning**: Peer reviews and group discussions foster collaboration, mirroring workplace dynamics.  
 4. **Comprehensive Coverage**: The labs cover every major aspect of IT specification development, ensuring well-rounded learning.  
-
-This structure ensures participants leave the course with not just theoretical knowledge, but actionable skills applicable to real IT projects.
