@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/454eb523-00ae-4dab-91f5-35a166a17f1e)
+
 OpenEduConnect’s versatile design and functionality make it a valuable asset across a range of industries where education, training, and collaborative learning are critical.
 The adaptability and scalability of OpenEduConnect make it suitable for industries that prioritize education, training, or collaboration. 
 Whether for formal education, employee development, or community outreach, OpenEduConnect provides the tools necessary for creating impactful learning experiences.
