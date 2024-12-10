@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/4948c371-5a8b-4531-8ba7-7b5f75b75a53)
+
 Detailed demonstration of how labs for each chapter of the course will be structured using the OpenEduConnect IT specification example. 
 Each lab includes objectives, tasks, resources, and expected outcomes to give participants a hands-on experience aligned with the course content.
 
