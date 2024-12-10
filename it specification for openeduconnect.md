@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/61d23306-0562-4aae-93b4-35d7eff80f09)
+
 ### IT Specification for **OpenEduConnect**
 
 
