@@ -12,6 +12,7 @@ Participants will analyze a real-world scenario involving the use of open-source
 1. **Scenario Analysis**:  
    - Read the provided case study comparing the licensing models used in Kubernetes (Apache 2.0) and a proprietary cloud communication protocol.
    - Analyze how licensing impacted adoption, collaboration, and ecosystem growth in both scenarios.
+   - This case study is a pre-existing example of licensing impacts already discussed in Unit 3.6: Licensing Considerations in IT Specification Development, where the Kubernetes case and the proprietary protocol case were used to highlight the consequences of different licensing strategies.
 
 2. **Hands-On Evaluation**:  
    - Review a mock specification that incorporates third-party libraries under various licenses (e.g., GPL, MIT, Apache 2.0).
