@@ -80,6 +80,5 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 
 ### **Why These Labs Work**
 1. **Practical Application**: Each lab builds on a real-world example, helping participants relate theory to practice.  
-2. **Skill Development**: Labs progressively develop key skills, from planning to validation and maintenance.  
-3. **Collaborative Learning**: Peer reviews and group discussions foster collaboration, mirroring workplace dynamics.  
-4. **Comprehensive Coverage**: The labs cover every major aspect of IT specification development, ensuring well-rounded learning.  
+2. **Skill Development**: Labs progressively develop key skills, from planning to validation and maintenance.   
+3. **Comprehensive Coverage**: The labs cover every major aspect of IT specification development, ensuring well-rounded learning.  
