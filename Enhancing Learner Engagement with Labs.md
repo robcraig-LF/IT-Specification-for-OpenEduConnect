@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
----
 _**note: this content is intended for my use, (Rob), as I continue to refine the labs**_
 
 ### Enhancing Learner Engagement with Labs
