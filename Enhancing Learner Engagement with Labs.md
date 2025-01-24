@@ -5,7 +5,7 @@ _**note: this content is intended for my use, (Rob), as I continue to refine the
 ### Enhancing Learner Engagement with Labs
 
 **Self-Assessment Mechanisms**
-   - Incorporates self-assessment tools: checklists, quizzes, rubrics.
+   - Incorporates self-assessment tools.
      - **Chapter 4**: Provides a validation checklist for learners to evaluate their peer review tasks independently.
      - **Chapter 3**: Offers a rubric for evaluating the clarity, specificity, and completeness of functional and non-functional requirements.
 
