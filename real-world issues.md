@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/6c8e5623-4ae0-408b-a0fe-b134dd238a4f)
-
 OpenEduConnect addresses the pressing need for a cohesive, inclusive, and scalable educational ecosystem. By solving the challenges of fragmentation, access inequity, and lack of interoperability, it empowers institutions to deliver modern, efficient, and impactful learning experiences.
 The key challenges it tackles, include:
 
