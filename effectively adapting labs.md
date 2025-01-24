@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
-
 Adapting labs effectively for the **OpenEduConnect** project within the course requires alignment with learning objectives, flexibility for different learner levels, and clear application of the example IT specification. 
 This roadmap will serve to ensure the labs are impactful:
 
