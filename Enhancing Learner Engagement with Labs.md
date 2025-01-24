@@ -33,13 +33,6 @@ _**note: this content is intended for my use, (Rob), as I continue to refine the
      - Reflect on how their decision aligns with project goals.
    - **Includes an answer key outlining potential solutions.**
 
-**Mock API Validation (Chapter 6)**
-   - Provides a sample API specification and test case.
-   - Tasks learners with:
-     - Identifying errors in the API documentation.
-     - Suggesting corrections to align the API with project goals.
-   - **Enhancement offers a downloadable walkthrough showing how to validate an API.**
-
 **GDPR Compliance Task (Chapter 4)**
    - Presents a mock IT specification with incomplete compliance elements.
    - Asks learners to:
@@ -57,21 +50,6 @@ _**note: this content is intended for my use, (Rob), as I continue to refine the
 
 ### (_CONSIDERATIONS_) Engagement Strategies for "Self-Paced Learning"
 
-**Reflection Prompts**
-   - Conclude each lab with reflective questions:
-     - "What was the most challenging part of this task?"
-     - "How might you approach similar challenges in a real-world project?"
-   - This encourages learners to record responses for their own progress tracking.
-
-**Adaptive Content**
-   - Offer optional bonus tasks to challenge advanced learners:
-     - **Chapter 3**: Include a bonus activity to draft requirements for a high-complexity feature like user analytics.
-     - **Chapter 5**: Add a scalability challenge requiring learners to outline steps for handling peak user loads.
-
 **Gamification**
    - In addition to the Course Badge, consider the introduction of achievement badges for completing the labs, at select milestones, or for challenges _we_ identify as optional (could be the labs).
      - **Example: Provide a "Functional Requirements _Master_" badge for completing Chapter 3**.
-
-**Pre-Lab Context**
-   - Begin each lab with a concise, engaging overview that connects it to real-world applications
-     - "In this lab, you'll create a version control plan that ensures IT specification updates are traceable and compliant with industry standards."
