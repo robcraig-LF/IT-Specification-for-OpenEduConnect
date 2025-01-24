@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
-
----
-
 ### Lab Overview and Placement
 
 1. **Chapter 1: Introduction to IT Specifications**
