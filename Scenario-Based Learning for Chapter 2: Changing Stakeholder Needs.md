@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
 ### Scenario-Based Learning for Chapter 2: Changing Stakeholder Needs
 
 ### **Purpose of the Scenario**
