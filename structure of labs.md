@@ -78,7 +78,7 @@ Each lab includes objectives, tasks, resources, and expected outcomes to give pa
 **Resources**: OpenEduConnect specification, feedback form template.  
 **Expected Outcomes**: Participants will refine their skills in reviewing and iterating on IT specifications.
 
-### **Why These Labs Work**
+### **How These Labs Are Intended to Work**
 1. **Practical Application**: Each lab builds on a real-world example, helping participants relate theory to practice.  
 2. **Skill Development**: Labs progressively develop key skills, from planning to validation and maintenance.   
 3. **Comprehensive Coverage**: The labs cover every major aspect of IT specification development, ensuring well-rounded learning.  
