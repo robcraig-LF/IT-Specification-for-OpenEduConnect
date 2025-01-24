@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/4014ef60-1825-4678-87c2-a8d3a29a85a3)
-
 ### **Benefits of Using OpenEduConnect in Labs**
 1. **Consistency Across Modules**: The example ties together all aspects of the course, creating a cohesive learning experience.  
 2. **Realistic Context**: OpenEduConnect mimics real-world scenarios, helping participants understand the practical relevance of the skills they’re acquiring.  
