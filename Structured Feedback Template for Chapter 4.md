@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
-
 ### Structured Feedback Template for Chapter 4: Reviewing a Sample Specification
 
 * This template is designed to help learners systematically evaluate a sample IT specification. 
