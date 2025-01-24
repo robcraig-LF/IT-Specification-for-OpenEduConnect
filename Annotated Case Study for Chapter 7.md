@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
-
 ### Annotated Case Study for Chapter 7: Strengths and Weaknesses of an IT Specification
 To refine their work, this annotated case study helps learners: 
 * critically evaluate IT specifications
