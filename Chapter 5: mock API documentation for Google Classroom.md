@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
 ### Mock API Documentation: Google Classroom API
 
 * This is the mock documentation snippet (for Google Classroom) mentioned in the Chapter 5 scenario.
