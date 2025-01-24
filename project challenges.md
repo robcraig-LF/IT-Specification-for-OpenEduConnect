@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/38a026fd-898c-4e9c-8998-a09909a89378)
-
 The **OpenEduConnect** project, like any IT initiative, could encounter several challenges. 
 Below are potential obstacles categorized by development phases and aspects of project execution:
 
