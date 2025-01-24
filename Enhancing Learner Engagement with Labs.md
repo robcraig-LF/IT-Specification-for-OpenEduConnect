@@ -21,7 +21,6 @@ _**note: this content is intended for my use, (Rob), as I continue to refine the
 
 **Guided Tasks with Prompts**
    - Breaks complex activities into smaller, guided steps:
-     - **Chapter 3**: Uses prompts like, "What are the expected outcomes for this requirement?" and "How does this requirement align with the project's goals?"
      - **Chapter 4**: Provides structured feedback templates learners can fill out as they review a sample specification.
 ---
 ### Additional (_possible_) Lab Content 
