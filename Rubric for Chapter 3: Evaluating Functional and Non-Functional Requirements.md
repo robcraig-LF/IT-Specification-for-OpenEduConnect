@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/61416d93-0364-41b2-821d-d212d2dc2324)
 ### Rubric for Chapter 3: Evaluating Functional and Non-Functional Requirements
 
 * This rubric allows you to evaluate your drafted functional and non-functional requirements based on clarity, specificity, and completeness.
