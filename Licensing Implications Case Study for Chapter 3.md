@@ -1,7 +1,3 @@
-![image](https://github.com/user-attachments/assets/d924111a-0127-40bb-a46b-9738c35cd1cd)
-
----
-
 #### **Case Study**: **Resolving Licensing Conflicts in the OpenEduConnect Project**
 
 This case study encourages learners to think critically about licensing conflicts, evaluate trade-offs, and develop strategies that balance legal, operational, and project goals.
