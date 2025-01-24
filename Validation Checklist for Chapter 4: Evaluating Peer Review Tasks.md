@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/61416d93-0364-41b2-821d-d212d2dc2324)
 ### Validation Checklist for Chapter 4: Evaluating Peer Review Tasks
 
 * Use this checklist to evaluate your peer review of IT specifications. 
