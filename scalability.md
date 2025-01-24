@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/a6bd6856-ef10-4893-96e7-aacd1798b759)
-
 OpenEduConnect ensures scalability through its thoughtfully designed modular architecture, robust interoperability features, and reliance on industry best practices for open-source development.
 OpenEduConnect's combination of modular architecture, cloud-native design, open standards, and advanced data management ensures the platform can seamlessly adapt to increasing demands. 
 This approach allows institutions to scale their operations confidently, maintaining performance and reliability as their needs grow.
