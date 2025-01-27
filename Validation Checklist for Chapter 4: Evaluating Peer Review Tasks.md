@@ -7,7 +7,7 @@
 
 #### **Validation Checklist**
 1. **Requirement Clarity**
-   - ☐ Are the functional and non-functional requirements written clearly, avoiding ambiguity or technical jargon?
+   - [ ] Are the functional and non-functional requirements written clearly, avoiding ambiguity or technical jargon?
    - ☐ Do the requirements clearly state what the system should do (functional) and how it should perform (non-functional)?
 
 2. **Alignment with Objectives**
